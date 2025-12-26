@@ -41,73 +41,73 @@ The automated tests cover the following scenarios:
 
 ---
 
-## 🧾 Test Scenarios Description
-✔️ Search for an Existing Product
+##  Test Scenarios Description
+- Search for an Existing Product
 
-Enter a valid product name
+  - Enter a valid product name
 
-Launch search
+  - Launch search
 
-Verify that relevant results are displayed
+  - Verify that relevant results are displayed
 
-❌ Search for a Non-existing Product
+- Search for a Non-existing Product
 
-Enter an invalid keyword
+  - Enter an invalid keyword
 
-Launch search
+  - Launch search
 
-Verify that no results or a proper message is displayed
+  - Verify that no results or a proper message is displayed
 
-🔁 Multiple Search Keywords
+- Multiple Search Keywords
 
-Test different inputs
+  - Test different inputs
 
-Validate consistency of results
-
----
-## 📊 Reports & Logs
-
-The project generates detailed HTML reports including:
-
-Test execution status
-
-Passed / Failed test cases
-
-Logs for debugging
-
-Screenshots (if configured)
+  - Validate consistency of results
 
 ---
+##  Reports & Logs
 
-## 🚀 Benefits of This Automation
+- The project generates detailed HTML reports including:
 
-Faster regression testing
+- Test execution status
 
-Improved search accuracy
+- Passed / Failed test cases
 
-Reduced human error
+- Logs for debugging
 
-Better user satisfaction
-
-Scalable and reusable test cases
+- Screenshots (if configured)
 
 ---
 
-## 🔮 Future Improvements
+##  Benefits of This Automation
 
-Add cross-browser testing
+- Faster regression testing
 
-Integrate CI/CD (GitHub Actions / Jenkins)
+- Improved search accuracy
 
-Add performance testing for search
+- Reduced human error
 
-Data-driven testing with CSV/Excel
+- Better user satisfaction
 
-Screenshot capture on test failure
+- Scalable and reusable test cases
 
 ---
 
-## 📌 Conclusion
+##  Future Improvements
+
+- Add cross-browser testing
+
+- Integrate CI/CD (GitHub Actions / Jenkins)
+
+- Add performance testing for search
+
+- Data-driven testing with CSV/Excel
+
+- Screenshot capture on test failure
+
+---
+
+##  Conclusion
 
 This project demonstrates how automated testing enhances the quality of e-commerce applications, especially for critical features like search.
 By leveraging Robot Framework and SeleniumLibrary, the solution ensures reliability, efficiency, and continuous quality validation.
